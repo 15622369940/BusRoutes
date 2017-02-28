@@ -1,0 +1,32 @@
+<Solution>
+  <PropertyGroup Name="BusRoutes" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="res">
+          <TTF Name="arial.ttf" />
+          <Image Name="background.png" />
+          <Image Name="fast.png" />
+          <Image Name="guide.png" />
+          <Image Name="guideBottom.png" />
+          <Image Name="guideTop.png" />
+          <TTF Name="HWXINWEI.TTF" />
+          <Image Name="mainLayer.png" />
+          <Image Name="maskInvisible.png" />
+          <Image Name="new_line.png" />
+          <Image Name="new_node.png" />
+          <Image Name="newLine.png" />
+          <Image Name="newNode.png" />
+          <Image Name="yes.png" />
+        </Folder>
+        <Project Name="CityLayer.csd" Type="Layer" />
+        <Project Name="GuideConfirmLayer.csd" Type="Layer" />
+        <Project Name="GuideLayer.csd" Type="Layer" />
+        <Project Name="NewCityLayer.csd" Type="Layer" />
+        <Project Name="NewLineLayer.csd" Type="Layer" />
+        <Project Name="NewNodeLayer.csd" Type="Layer" />
+        <Project Name="StartLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
